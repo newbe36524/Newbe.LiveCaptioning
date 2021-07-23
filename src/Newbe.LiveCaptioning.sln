@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Newbe.LiveCaptioning", "Newbe.LiveCaptioning\Newbe.LiveCaptioning.csproj", "{BE2A4EC7-7A00-45C9-99F7-0EE2B549196D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2A4EC7-7A00-45C9-99F7-0EE2B549196D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2A4EC7-7A00-45C9-99F7-0EE2B549196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2A4EC7-7A00-45C9-99F7-0EE2B549196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2A4EC7-7A00-45C9-99F7-0EE2B549196D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
