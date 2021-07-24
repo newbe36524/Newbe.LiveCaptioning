@@ -394,3 +394,4 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp
 {"mode":"full","isActive":false}
+/src/out/
