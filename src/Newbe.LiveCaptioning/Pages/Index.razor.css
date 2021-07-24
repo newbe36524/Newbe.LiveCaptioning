@@ -1,0 +1,7 @@
+﻿.neon {
+    font-family: "SimHei", serif;
+    line-height: 100px;
+    font-size: 100px;
+    color: #f7f7f7;
+    text-shadow: #000 1px 0 0, #000 0 1px 0, #000 -1px 0 0, #000 0 -1px 0;
+}
